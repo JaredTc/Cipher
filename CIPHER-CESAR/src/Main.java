@@ -3,7 +3,7 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
 
-//        v1
+//        v1 console
 //       String message = "fuck society";
 //
 //       int displacement = 3;
@@ -17,7 +17,7 @@ public class Main {
 //        JOptionPane.showMessageDialog(null, "Cipher Message: " + ciphmessahe, );
 
 
-//        v2
+//        v2 gui
 
         String message = JOptionPane.showInputDialog("Ingrese el mensaje a cifrar:");
         int displacement = 3;
